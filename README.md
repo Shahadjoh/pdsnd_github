@@ -1,13 +1,13 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+10/09/2023
 
 ### Project Title
-Replace the Project Title
+Bikeshare_2
 
 ### Description
-Describe what your project is about and what it does
+it show a window for users to display statics about three cities by python
 
 ### Files used
 Include the files used
