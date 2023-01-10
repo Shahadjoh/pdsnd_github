@@ -166,6 +166,9 @@ def user_stats(df):
     print('-' * 40)
 def name_user()
     print("inter your name")
+    def printinfo()
+    print("shahad")
+
 
 def main():
 
