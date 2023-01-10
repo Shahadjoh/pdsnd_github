@@ -160,7 +160,7 @@ def user_stats(df):
         print("Most recent year of birth:", most_recent_birth_year)
         print("Most common year of birth:", most_common_birth_year)
     else:
-        print("Birth year data is not available.")
+        print("Birth year data is not available right now.")
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-' * 40)
@@ -168,6 +168,7 @@ def name_user()
     print("inter your name")
     def printinfo()
     print("shahad")
+
 
 
 def main():
