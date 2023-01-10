@@ -8,6 +8,7 @@ Bikeshare_2
 
 ### Description
 it show a window for users to display statics about three cities by python
+and it shows option for users to disply it in 5 rows
 
 ### Files used
 chicago
